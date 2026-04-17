@@ -5,7 +5,7 @@ A LangGraph-based intelligent customer support system for banking institutions.
 
 __version__ = "1.0.0"
 __author__ = "Mayank"
-__email__ = "your.email@example.com"
+__email__ = "mayank.jha10@gmail.com"
 
 from .classifier import hf_model_classify
 from .agents import app

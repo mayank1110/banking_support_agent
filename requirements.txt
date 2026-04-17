@@ -19,6 +19,7 @@ numpy>=1.24.0
 
 # Utilities
 typing-extensions>=4.8.0
+python-dotenv>=1.0.0
 
 # Development & Testing
 pytest>=7.4.0
